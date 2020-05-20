@@ -19,6 +19,6 @@ Select your srt file:
 ![](https://github.com/shahidul034/Find-GRE-word-from-Subtitle/blob/master/image/3.jpg)
 
 
-GRE word text and CSV file in desktop:
+GRE word with meaning text and CSV file in desktop:
 
 ![](https://github.com/shahidul034/Find-GRE-word-from-Subtitle/blob/master/image/4.jpg)
